@@ -13,7 +13,6 @@ import {
 } from 'react-router-dom';
 import Home from './pages/Home.jsx';
 import Login from './pages/Login.jsx';
-import SignUp from './pages/SignUp.jsx';
 import NewTrainer from './pages/NewTrainer.jsx';
 
 //style part
@@ -109,7 +108,6 @@ class App2 extends React.Component {
           </div>
           <Route path="/" exact strict component={Home} />
           <Route path="/login" exact strict component={Login} />
-          <Route path="/signup" component={SignUp} />
           <Route path="/newtrainer" exact strict component={NewTrainer} />
         </div>
       </Router>
