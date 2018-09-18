@@ -24,3 +24,6 @@ or sudo npm run salsabeel
 
 - [x] Open the App in the browser like [chrome browser]at 127.0.0.1:7000
 # PRESTIGE-GYM-
+
+
+![alt text](/home/salsabeel/Downloads/Screenshot from 2018-09-18 14-16-54.png)
